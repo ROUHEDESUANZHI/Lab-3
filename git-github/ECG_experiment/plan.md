@@ -5,6 +5,6 @@ The list of hospitals is :
 
 ### * UCLH
 
-### * St Claire's hospital
+### * Whittington
 
-### * Royal L
+### * Royal Free
