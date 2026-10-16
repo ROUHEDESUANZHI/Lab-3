@@ -2,3 +2,9 @@
 the structure of the trial is bellow:
 ### Hospitals
 The list of hospitals is :
+
+### * UCLH
+
+### * St Claire's hospital
+
+### * Royal L
